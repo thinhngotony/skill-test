@@ -1,0 +1,15 @@
+# Environment files
+frontend/.env
+backend/.env
+
+# macOS system files
+.DS_Store
+go-service/.DS_Store
+go-service/internal/.DS_Store
+
+# Local or temp files
+cookies.txt
+
+# Compiled service binaries or build artifacts
+go-service/student-report-service
+go-service/main
